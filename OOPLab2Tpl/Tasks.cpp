@@ -1,7 +1,7 @@
 ﻿#include <iostream>
 using namespace std;
 #include "Tasks.h"
-#include "Examples.h"
+#include "Examples.h"//віфвфівчччч   22
 void MenuTask()
 {
     cout << "     Menu Task   \n";
