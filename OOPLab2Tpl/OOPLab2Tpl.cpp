@@ -15,6 +15,7 @@ int main()
 
     char ch = '5';
     do {
+        system("chcp 1251");
         system("cls");
         MenuTask();
         ch = cin.get();
