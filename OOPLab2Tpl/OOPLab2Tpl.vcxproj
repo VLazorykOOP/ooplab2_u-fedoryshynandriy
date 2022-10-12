@@ -139,13 +139,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Examples.cpp" />
-    <ClCompile Include="Tasks.cpp" />
-    <ClCompile Include="OOPLab2Tpl.cpp" />
+    <ClCompile Include="..\..\..\..\..\OneDrive\Рабочий стол\Source.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Examples.h" />
-    <ClInclude Include="Tasks.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
